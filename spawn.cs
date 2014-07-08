@@ -21,7 +21,7 @@ namespace Spawn {
             bringTimer.Interval = 30000;
             bringTimer.AutoReset = true;
             bringTimer.Elapsed += new ElapsedEventHandler(bringAtInterval);
-            Commands.ChatCommands.Add(new Command("bringtospawn", bringCmd, "bringtospawn")
+            Commands.ChatCommands.Add(new Command("bringtospawn.admin.bring", bringCmd, "bringtospawn")
             {
                 HelpText = "Brings all players to spawn. You can also do /bringtospawn start <interval (minutes)> to set an interval and /bringtospawn end to end it."
             });
