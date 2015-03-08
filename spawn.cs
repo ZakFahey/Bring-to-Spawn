@@ -8,7 +8,7 @@ using TerrariaApi.Server;
 using System.Timers;
 
 namespace Spawn {
-    [ApiVersion(1, 16)]
+    [ApiVersion(1, 17)]
     public class BringToSpawn : TerrariaPlugin {
         Timer bringTimer = new Timer();
         Random r = new Random();
@@ -27,7 +27,7 @@ namespace Spawn {
             });
         }
         public override Version Version {
-            get { return new Version("1.0.1"); }
+            get { return new Version("1.0.2"); }
         }
         public override string Name {
             get { return "Bring to Spawn"; }

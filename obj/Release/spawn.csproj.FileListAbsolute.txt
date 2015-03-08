@@ -3,3 +3,6 @@ C:\Users\Zak\Desktop\build\BringToSpawn.dll
 C:\Users\Zak\Desktop\build\BringToSpawn.pdb
 E:\Dropbox\TShock mods\Bring to Spawn\obj\Release\BringToSpawn.dll
 E:\Dropbox\TShock mods\Bring to Spawn\obj\Release\BringToSpawn.pdb
+E:\TShock mods\Bring-to-Spawn\obj\Release\spawn.csprojResolveAssemblyReference.cache
+E:\TShock mods\Bring-to-Spawn\obj\Release\BringToSpawn.dll
+E:\TShock mods\Bring-to-Spawn\obj\Release\BringToSpawn.pdb
